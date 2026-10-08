@@ -8,4 +8,4 @@ The push command uploads the changes to your repo to the remote version
 4. What does the commit command do in Git?
 The commit command saves file changes in the local repo on your computer
 5. What is Github Desktop, & why are we using it?
-Github desktop is an app that allows you to us git and github without needing type gitcommmands 
+Github desktop is an app that allows you to us git and github without needing type git commmands 
