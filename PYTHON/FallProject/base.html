@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- title tag goes here! -->
+</head>
+
+<body>
+    <div class="Header">
+      {% block header %} {% endblock %}
+    </div> 
+ <div class="navbar">
+    {% block navbar %} {% endblock %}
+ </div>
+  <div class="body">
+    {% block body %} {% endblock %}
+
+  </div>
+   <div class="footer">
+    {% block footer %} {% endblock %}
+   </div>
+    <!-- Paragraph & Header tag goes here! -->
+    <h1>Welcome to Amare's website! </h1>
+    <p>This website will give an adobe dilemma generator </p>
+</body>
+</html>
